@@ -10,9 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princerajpoot20&label=Profile%20views&color=0e75b6&style=flat" alt="princerajpoot" /> </p>
 
 
-<img align="right" alt="Work!" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=princerajpoot20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!-- <img align="right" alt="Work!" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princerajpoot20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
+<img align="right" alt="Work!" width="400" src="https://github-readme-stats.vercel.app/api?username=princerajpoot20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 
 
 
