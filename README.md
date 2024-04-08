@@ -33,3 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
