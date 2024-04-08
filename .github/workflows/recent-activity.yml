@@ -6,6 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
+  build:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
   activity:
     name: Update README with recent activity
     runs-on: ubuntu-latest
