@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 -->
 
 
+### Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 17 commit(s) to [utnim2/studio](https://github.com/utnim2/studio)<br>
 2. 🔴 Requested 2 change(s) for [#1065](https://github.com/asyncapi/studio/pull/1065#pullrequestreview-1999196542) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
