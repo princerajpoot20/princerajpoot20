@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 
 
 <!--RECENT_ACTIVITY:start-->
-
 <!--RECENT_ACTIVITY:end-->
