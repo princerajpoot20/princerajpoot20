@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#773](https://github.com/asyncapi/studio/pull/773#pullrequestreview-2034189946) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-2. ⬆️ Pushed 1 commit(s) to [princerajpoot20/princerajpoot20](https://github.com/princerajpoot20/princerajpoot20)<br>
+1. ⬆️ Pushed 2 commit(s) to [Gmin2/studio](https://github.com/Gmin2/studio)<br>
+2. 👍 Approved [#773](https://github.com/asyncapi/studio/pull/773#pullrequestreview-2034189946) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
 3. ⬆️ Pushed 1 commit(s) to [princerajpoot20/princerajpoot20](https://github.com/princerajpoot20/princerajpoot20)<br>
 4. ⬆️ Pushed 1 commit(s) to [princerajpoot20/princerajpoot20](https://github.com/princerajpoot20/princerajpoot20)<br>
-5. ⬆️ Pushed 17 commit(s) to [utnim2/studio](https://github.com/utnim2/studio)<br>
+5. ⬆️ Pushed 1 commit(s) to [princerajpoot20/princerajpoot20](https://github.com/princerajpoot20/princerajpoot20)<br>
 <!--RECENT_ACTIVITY:end-->
