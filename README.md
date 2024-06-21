@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1116](https://github.com/asyncapi/studio/pull/1116#pullrequestreview-2114958440) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-2. ⬆️ Pushed 57 commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
-3. 👍 Approved [#1065](https://github.com/asyncapi/studio/pull/1065#pullrequestreview-2098729020) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-4. 👍 Approved [#1065](https://github.com/asyncapi/studio/pull/1065#pullrequestreview-2096716441) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-5. 👍 Approved [#1108](https://github.com/asyncapi/studio/pull/1108#pullrequestreview-2095848658) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+1. ✔️ Closed issue [#1100](https://github.com/asyncapi/studio/issues/1100) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+2. 👍 Approved [#1115](https://github.com/asyncapi/studio/pull/1115#pullrequestreview-2133306592) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+3. 👍 Approved [#1116](https://github.com/asyncapi/studio/pull/1116#pullrequestreview-2114958440) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+4. ⬆️ Pushed 57 commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
+5. 👍 Approved [#1065](https://github.com/asyncapi/studio/pull/1065#pullrequestreview-2098729020) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
 <!--RECENT_ACTIVITY:end-->
