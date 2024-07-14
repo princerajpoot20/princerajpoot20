@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [princerajpoot20/Without_Vulnerability](https://github.com/princerajpoot20/Without_Vulnerability)<br>
-2. 📔 Created new repository [princerajpoot20/Without_Vulnerability](https://github.com/princerajpoot20/Without_Vulnerability)<br>
-3. 📔 Created new repository [princerajpoot20/BruteForceAttack](https://github.com/princerajpoot20/BruteForceAttack)<br>
-4. 📔 Created new repository [princerajpoot20/vulnerability](https://github.com/princerajpoot20/vulnerability)<br>
-5. ✔️ Closed issue [#1100](https://github.com/asyncapi/studio/issues/1100) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+2. ⬆️ Pushed 1 commit(s) to [princerajpoot20/Without_Vulnerability](https://github.com/princerajpoot20/Without_Vulnerability)<br>
+3. 📔 Created new repository [princerajpoot20/Without_Vulnerability](https://github.com/princerajpoot20/Without_Vulnerability)<br>
+4. 📔 Created new repository [princerajpoot20/BruteForceAttack](https://github.com/princerajpoot20/BruteForceAttack)<br>
+5. 📔 Created new repository [princerajpoot20/vulnerability](https://github.com/princerajpoot20/vulnerability)<br>
 <!--RECENT_ACTIVITY:end-->
