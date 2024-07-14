@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [princerajpoot20/BruteForceAttack](https://github.com/princerajpoot20/BruteForceAttack)<br>
-2. 📔 Created new repository [princerajpoot20/vulnerability](https://github.com/princerajpoot20/vulnerability)<br>
-3. ✔️ Closed issue [#1100](https://github.com/asyncapi/studio/issues/1100) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-4. 👍 Approved [#1115](https://github.com/asyncapi/studio/pull/1115#pullrequestreview-2133306592) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-5. 👍 Approved [#1116](https://github.com/asyncapi/studio/pull/1116#pullrequestreview-2114958440) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+1. ⬆️ Pushed 1 commit(s) to [princerajpoot20/Without_Vulnerability](https://github.com/princerajpoot20/Without_Vulnerability)<br>
+2. 📔 Created new repository [princerajpoot20/Without_Vulnerability](https://github.com/princerajpoot20/Without_Vulnerability)<br>
+3. 📔 Created new repository [princerajpoot20/BruteForceAttack](https://github.com/princerajpoot20/BruteForceAttack)<br>
+4. 📔 Created new repository [princerajpoot20/vulnerability](https://github.com/princerajpoot20/vulnerability)<br>
+5. ✔️ Closed issue [#1100](https://github.com/asyncapi/studio/issues/1100) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
 <!--RECENT_ACTIVITY:end-->
