@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [princerajpoot20/vulnerability](https://github.com/princerajpoot20/vulnerability)<br>
-2. ⬆️ Pushed 2 commit(s) to [princerajpoot20/vulnerability](https://github.com/princerajpoot20/vulnerability)<br>
-3. ⬆️ Pushed 2 commit(s) to [princerajpoot20/vulnerability](https://github.com/princerajpoot20/vulnerability)<br>
-4. 🎉 Merged PR [#1](https://github.com/princerajpoot20/vulnerability/pull/1) in [princerajpoot20/vulnerability](https://github.com/princerajpoot20/vulnerability)<br>
-5. 💪 Opened PR [#1](https://github.com/princerajpoot20/vulnerability/pull/1) in [princerajpoot20/vulnerability](https://github.com/princerajpoot20/vulnerability)<br>
+1. ✔️ Closed issue [#4913](https://github.com/asyncapi/website/issues/4913) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 👍 Approved [#4878](https://github.com/asyncapi/website/pull/4878#pullrequestreview-3647124263) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 🔴 Requested 1 change(s) for [#4760](https://github.com/asyncapi/website/pull/4760#pullrequestreview-3647102573) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ❌ Closed PR [#4769](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [Sourya07/website](https://github.com/Sourya07/website)<br>
 <!--RECENT_ACTIVITY:end-->
