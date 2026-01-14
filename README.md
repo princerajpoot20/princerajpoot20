@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#721](https://github.com/asyncapi/conference-website/pull/721#pullrequestreview-3657155698) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-2. ✔️ Closed issue [#4936](https://github.com/asyncapi/website/issues/4936) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. 👍 Approved [#1242](https://github.com/asyncapi/studio/pull/1242#pullrequestreview-3651880986) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-4. ❌ Closed PR [#4923](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ✔️ Closed issue [#4913](https://github.com/asyncapi/website/issues/4913) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. 🔴 Requested 1 change(s) for [#4244](https://github.com/asyncapi/website/pull/4244#pullrequestreview-3660741600) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 🔴 Requested 1 change(s) for [#721](https://github.com/asyncapi/conference-website/pull/721#pullrequestreview-3657155698) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+3. ✔️ Closed issue [#4936](https://github.com/asyncapi/website/issues/4936) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 👍 Approved [#1242](https://github.com/asyncapi/studio/pull/1242#pullrequestreview-3651880986) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+5. ❌ Closed PR [#4923](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
