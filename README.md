@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2253](undefined) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
-3. 🔴 Requested 1 change(s) for [#4533](https://github.com/asyncapi/website/pull/4533#pullrequestreview-3666548096) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. 🔴 Requested 1 change(s) for [#4244](https://github.com/asyncapi/website/pull/4244#pullrequestreview-3660741600) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 🔴 Requested 1 change(s) for [#721](https://github.com/asyncapi/conference-website/pull/721#pullrequestreview-3657155698) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
+2. 💪 Opened PR [#2253](undefined) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
+4. 🔴 Requested 1 change(s) for [#4533](https://github.com/asyncapi/website/pull/4533#pullrequestreview-3666548096) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. 🔴 Requested 1 change(s) for [#4244](https://github.com/asyncapi/website/pull/4244#pullrequestreview-3660741600) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
