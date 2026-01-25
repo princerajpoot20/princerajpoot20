@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4152](https://github.com/asyncapi/website/pull/4152#pullrequestreview-3702286188) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-3. ❌ Closed PR [#1252](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-4. ✔️ Closed issue [#1249](https://github.com/asyncapi/studio/issues/1249) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
+1. 💪 Opened PR [#2](undefined) in [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+2. 👍 Approved [#4152](https://github.com/asyncapi/website/pull/4152#pullrequestreview-3702286188) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+4. ❌ Closed PR [#1252](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+5. ✔️ Closed issue [#1249](https://github.com/asyncapi/studio/issues/1249) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
 <!--RECENT_ACTIVITY:end-->
