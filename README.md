@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5034](https://github.com/asyncapi/website/pull/5034#pullrequestreview-3732378676) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 👍 Approved [#5046](https://github.com/asyncapi/website/pull/5046#pullrequestreview-3732000015) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. 👍 Approved [#4982](https://github.com/asyncapi/website/pull/4982#pullrequestreview-3714479562) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ✔️ Closed issue [#5023](https://github.com/asyncapi/website/issues/5023) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ❌ Closed PR [#4945](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ❗️ Opened issue [#5052](https://github.com/asyncapi/website/issues/5052) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 👍 Approved [#5034](https://github.com/asyncapi/website/pull/5034#pullrequestreview-3732378676) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 👍 Approved [#5046](https://github.com/asyncapi/website/pull/5046#pullrequestreview-3732000015) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 👍 Approved [#4982](https://github.com/asyncapi/website/pull/4982#pullrequestreview-3714479562) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ✔️ Closed issue [#5023](https://github.com/asyncapi/website/issues/5023) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
