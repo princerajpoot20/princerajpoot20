@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#4215](https://github.com/asyncapi/website/pull/4215#pullrequestreview-3767716555) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [sammy200-ui/website](https://github.com/sammy200-ui/website)<br>
-3. ❌ Closed PR [#5086](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ✔️ Closed issue [#4987](https://github.com/asyncapi/website/issues/4987) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ❌ Closed PR [#4989](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ✔️ Closed issue [#5099](https://github.com/asyncapi/website/issues/5099) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ❌ Closed PR [#5106](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ✔️ Closed issue [#5105](https://github.com/asyncapi/website/issues/5105) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 🔴 Requested 1 change(s) for [#4215](https://github.com/asyncapi/website/pull/4215#pullrequestreview-3767716555) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [sammy200-ui/website](https://github.com/sammy200-ui/website)<br>
 <!--RECENT_ACTIVITY:end-->
