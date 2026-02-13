@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5127](https://github.com/asyncapi/website/issues/5127) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ✔️ Closed issue [#4882](https://github.com/asyncapi/website/issues/4882) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. 👍 Approved [#4890](https://github.com/asyncapi/website/pull/4890#pullrequestreview-3769065015) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [unknowdeepanshu/website](https://github.com/unknowdeepanshu/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ⬆️ Pushed undefined commit(s) to [Ruchip16/website](https://github.com/Ruchip16/website)<br>
+3. ❗️ Opened issue [#5127](https://github.com/asyncapi/website/issues/5127) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ✔️ Closed issue [#4882](https://github.com/asyncapi/website/issues/4882) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
