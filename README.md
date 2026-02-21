@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#5138](https://github.com/asyncapi/website/issues/5138) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ✔️ Closed issue [#5149](https://github.com/asyncapi/website/issues/5149) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ✔️ Closed issue [#5153](https://github.com/asyncapi/website/issues/5153) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ✔️ Closed issue [#4930](https://github.com/asyncapi/website/issues/4930) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ❌ Closed PR [#5184](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [anushkaaaaaaaa/website](https://github.com/anushkaaaaaaaa/website)<br>
+2. 🔴 Requested 1 change(s) for [#4215](https://github.com/asyncapi/website/pull/4215#pullrequestreview-3835712381) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ✔️ Closed issue [#5138](https://github.com/asyncapi/website/issues/5138) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ✔️ Closed issue [#5149](https://github.com/asyncapi/website/issues/5149) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ✔️ Closed issue [#5153](https://github.com/asyncapi/website/issues/5153) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
