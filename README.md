@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5181](https://github.com/asyncapi/website/pull/5181#pullrequestreview-3826501086) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 👍 Approved [#4484](https://github.com/asyncapi/website/pull/4484#pullrequestreview-3819857999) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ⬆️ Pushed undefined commit(s) to [Ruchip16/website](https://github.com/Ruchip16/website)<br>
-4. ✔️ Closed issue [#5152](https://github.com/asyncapi/website/issues/5152) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ✔️ Closed issue [#5155](https://github.com/asyncapi/website/issues/5155) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ✔️ Closed issue [#5149](https://github.com/asyncapi/website/issues/5149) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ✔️ Closed issue [#5153](https://github.com/asyncapi/website/issues/5153) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ✔️ Closed issue [#4930](https://github.com/asyncapi/website/issues/4930) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ❌ Closed PR [#5184](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ✔️ Closed issue [#5183](https://github.com/asyncapi/website/issues/5183) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
