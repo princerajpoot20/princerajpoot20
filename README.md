@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#5187](https://github.com/asyncapi/website/pull/5187#pullrequestreview-3835909337) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ❌ Closed PR [#4919](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ❌ Closed PR [#5053](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ❌ Closed PR [#5076](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ✔️ Closed issue [#5021](https://github.com/asyncapi/website/issues/5021) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ✔️ Closed issue [#4944](https://github.com/asyncapi/website/issues/4944) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 🔴 Requested 1 change(s) for [#5187](https://github.com/asyncapi/website/pull/5187#pullrequestreview-3835909337) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ❌ Closed PR [#4919](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ❌ Closed PR [#5053](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ❌ Closed PR [#5076](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
