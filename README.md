@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+1. ❌ Closed PR [#5194](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ⬆️ Pushed undefined commit(s) to [AceTheCreator/website](https://github.com/AceTheCreator/website)<br>
 3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [Prajwalwho/website](https://github.com/Prajwalwho/website)<br>
-5. 👍 Approved [#5187](https://github.com/asyncapi/website/pull/5187#pullrequestreview-3837067034) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 💪 Opened PR [#5194](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
 <!--RECENT_ACTIVITY:end-->
