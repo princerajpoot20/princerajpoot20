@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#5194](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [AceTheCreator/website](https://github.com/AceTheCreator/website)<br>
-3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-4. 💪 Opened PR [#5194](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+1. ✔️ Closed issue [#2304](https://github.com/asyncapi/community/issues/2304) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+2. ❌ Closed PR [#5194](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [AceTheCreator/website](https://github.com/AceTheCreator/website)<br>
+4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+5. 💪 Opened PR [#5194](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
