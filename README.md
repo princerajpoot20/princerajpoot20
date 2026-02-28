@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#4760](https://github.com/asyncapi/website/pull/4760#pullrequestreview-3868306283) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ✔️ Closed issue [#2304](https://github.com/asyncapi/community/issues/2304) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-3. ❌ Closed PR [#5194](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [AceTheCreator/website](https://github.com/AceTheCreator/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [Varadraj75/website_async](https://github.com/Varadraj75/website_async)<br>
+2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ❌ Closed PR [#5207](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ❌ Closed PR [#5193](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
