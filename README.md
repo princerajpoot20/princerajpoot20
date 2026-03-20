@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4783](https://github.com/asyncapi/website/pull/4783#pullrequestreview-3981713651) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [Recxsmacx/website](https://github.com/Recxsmacx/website)<br>
-3. 👍 Approved [#4820](https://github.com/asyncapi/website/pull/4820#pullrequestreview-3981684993) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ❌ Closed PR [#4830](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ✔️ Closed issue [#4787](https://github.com/asyncapi/website/issues/4787) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ❌ Closed PR [#5033](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ❌ Closed PR [#5194](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ❌ Closed PR [#5123](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ✔️ Closed issue [#4938](https://github.com/asyncapi/website/issues/4938) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. 👍 Approved [#4783](https://github.com/asyncapi/website/pull/4783#pullrequestreview-3981713651) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
