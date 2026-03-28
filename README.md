@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-2. ✔️ Closed issue [#4836](https://github.com/asyncapi/website/issues/4836) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ✔️ Closed issue [#3670](https://github.com/asyncapi/website/issues/3670) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. 💪 Opened PR [#1139](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. ✔️ Closed issue [#3797](https://github.com/asyncapi/website/issues/3797) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. 💪 Opened PR [#1](undefined) in [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
+2. 💪 Opened PR [#1](undefined) in [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
+4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
+5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
 <!--RECENT_ACTIVITY:end-->
