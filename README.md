@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1139](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-2. ✔️ Closed issue [#3797](https://github.com/asyncapi/website/issues/3797) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ✔️ Closed issue [#5190](https://github.com/asyncapi/website/issues/5190) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ✔️ Closed issue [#5049](https://github.com/asyncapi/website/issues/5049) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ❌ Closed PR [#4457](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ✔️ Closed issue [#3670](https://github.com/asyncapi/website/issues/3670) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 💪 Opened PR [#1139](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+3. ✔️ Closed issue [#3797](https://github.com/asyncapi/website/issues/3797) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ✔️ Closed issue [#5190](https://github.com/asyncapi/website/issues/5190) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ✔️ Closed issue [#5049](https://github.com/asyncapi/website/issues/5049) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
