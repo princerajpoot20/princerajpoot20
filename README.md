@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [iambami/website](https://github.com/iambami/website)<br>
 2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ✔️ Closed issue [#2330](https://github.com/asyncapi/community/issues/2330) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-4. ⬆️ Pushed undefined commit(s) to [thulieblack/website](https://github.com/thulieblack/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [iambami/website](https://github.com/iambami/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ✔️ Closed issue [#2330](https://github.com/asyncapi/community/issues/2330) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+5. ⬆️ Pushed undefined commit(s) to [thulieblack/website](https://github.com/thulieblack/website)<br>
 <!--RECENT_ACTIVITY:end-->
