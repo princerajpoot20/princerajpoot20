@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 👍 Approved [#394](https://github.com/asyncapi/.github/pull/394#pullrequestreview-4056061166) in [asyncapi/.github](https://github.com/asyncapi/.github)<br>
-3. ⬆️ Pushed undefined commit(s) to [iambami/website](https://github.com/iambami/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ✔️ Closed issue [#4415](https://github.com/asyncapi/website/issues/4415) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ✔️ Closed issue [#4664](https://github.com/asyncapi/website/issues/4664) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 👍 Approved [#394](https://github.com/asyncapi/.github/pull/394#pullrequestreview-4056061166) in [asyncapi/.github](https://github.com/asyncapi/.github)<br>
+5. ⬆️ Pushed undefined commit(s) to [iambami/website](https://github.com/iambami/website)<br>
 <!--RECENT_ACTIVITY:end-->
