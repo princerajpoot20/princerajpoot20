@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1140](https://github.com/asyncapi/parser-js/pull/1140#pullrequestreview-4056743402) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-2. ❌ Closed PR [#5306](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ❌ Closed PR [#5290](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ❌ Closed PR [#5274](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ✔️ Closed issue [#5111](https://github.com/asyncapi/website/issues/5111) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. 💪 Opened PR [#2](undefined) in [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
+2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
+4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
+5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
 <!--RECENT_ACTIVITY:end-->
