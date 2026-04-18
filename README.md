@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#5234](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 💪 Opened PR [#5338](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-4. ❌ Closed PR [#5329](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 👍 Approved [#4857](https://github.com/asyncapi/website/pull/4857#pullrequestreview-4133918547) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. 👍 Approved [#4215](https://github.com/asyncapi/website/pull/4215#pullrequestreview-4134155364) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ⬆️ Pushed undefined commit(s) to [anushkaaaaaaaa/website](https://github.com/anushkaaaaaaaa/website)<br>
+3. 👍 Approved [#4548](https://github.com/asyncapi/website/pull/4548#pullrequestreview-4134150393) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ⬆️ Pushed undefined commit(s) to [yashdarekar17/website](https://github.com/yashdarekar17/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
