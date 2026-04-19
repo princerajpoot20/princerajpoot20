@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
-3. 💪 Opened PR [#3516](undefined) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+1. ❗️ Opened issue [#5342](https://github.com/asyncapi/website/issues/5342) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ❗️ Opened issue [#5341](https://github.com/asyncapi/website/issues/5341) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
 4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
-5. 👍 Approved [#4215](https://github.com/asyncapi/website/pull/4215#pullrequestreview-4134155364) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. 💪 Opened PR [#3516](undefined) in [asyncapi/community](https://github.com/asyncapi/community)<br>
 <!--RECENT_ACTIVITY:end-->
