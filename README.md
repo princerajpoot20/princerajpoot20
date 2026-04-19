@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ❗️ Opened issue [#5342](https://github.com/asyncapi/website/issues/5342) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ❗️ Opened issue [#5341](https://github.com/asyncapi/website/issues/5341) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
+1. ⬆️ Pushed undefined commit(s) to [Anexus5919/website](https://github.com/Anexus5919/website)<br>
+2. 👍 Approved [#5309](https://github.com/asyncapi/website/pull/5309#pullrequestreview-4136335718) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ❗️ Opened issue [#5342](https://github.com/asyncapi/website/issues/5342) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ❗️ Opened issue [#5341](https://github.com/asyncapi/website/issues/5341) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
