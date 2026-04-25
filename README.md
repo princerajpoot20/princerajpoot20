@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
 2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
-3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
+3. 💪 Opened PR [#7](undefined) in [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
+4. 💪 Opened PR [#6](undefined) in [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
 5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/.github](https://github.com/princerajpoot20/.github)<br>
 <!--RECENT_ACTIVITY:end-->
