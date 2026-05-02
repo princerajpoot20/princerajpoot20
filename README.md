@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. 👍 Approved [#5374](https://github.com/asyncapi/website/pull/5374#pullrequestreview-4215341986) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
-5. ✔️ Closed issue [#5281](https://github.com/asyncapi/website/issues/5281) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. 👍 Approved [#1261](https://github.com/asyncapi/studio/pull/1261#pullrequestreview-4215403197) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+2. ⬆️ Pushed undefined commit(s) to [Harsh16gupta/studio](https://github.com/Harsh16gupta/studio)<br>
+3. ✔️ Closed issue [#1286](https://github.com/asyncapi/studio/issues/1286) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+4. ⬆️ Pushed undefined commit(s) to [Ishita-190/studio_work](https://github.com/Ishita-190/studio_work)<br>
+5. ❌ Closed PR [#1257](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
 <!--RECENT_ACTIVITY:end-->
