@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1261](https://github.com/asyncapi/studio/pull/1261#pullrequestreview-4215403197) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-2. ⬆️ Pushed undefined commit(s) to [Harsh16gupta/studio](https://github.com/Harsh16gupta/studio)<br>
-3. ✔️ Closed issue [#1286](https://github.com/asyncapi/studio/issues/1286) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-4. ⬆️ Pushed undefined commit(s) to [Ishita-190/studio_work](https://github.com/Ishita-190/studio_work)<br>
-5. ❌ Closed PR [#1257](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 👍 Approved [#5378](https://github.com/asyncapi/website/pull/5378#pullrequestreview-4217737827) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 👍 Approved [#1261](https://github.com/asyncapi/studio/pull/1261#pullrequestreview-4215403197) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+4. ⬆️ Pushed undefined commit(s) to [Harsh16gupta/studio](https://github.com/Harsh16gupta/studio)<br>
+5. ✔️ Closed issue [#1286](https://github.com/asyncapi/studio/issues/1286) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
 <!--RECENT_ACTIVITY:end-->
