@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
 2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. 👍 Approved [#5376](https://github.com/asyncapi/website/pull/5376#pullrequestreview-4227891166) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 👍 Approved [#5386](https://github.com/asyncapi/website/pull/5386#pullrequestreview-4259026783) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 👍 Approved [#5378](https://github.com/asyncapi/website/pull/5378#pullrequestreview-4217737827) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
