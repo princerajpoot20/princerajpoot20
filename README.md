@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5405](https://github.com/asyncapi/website/pull/5405#pullrequestreview-4292261270) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ✔️ Closed issue [#5342](https://github.com/asyncapi/website/issues/5342) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-4. 💪 Opened PR [#4](undefined) in [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-5. ❌ Closed PR [#5418](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ❌ Closed PR [#5405](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 👍 Approved [#5405](https://github.com/asyncapi/website/pull/5405#pullrequestreview-4292261270) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ✔️ Closed issue [#5342](https://github.com/asyncapi/website/issues/5342) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+5. 💪 Opened PR [#4](undefined) in [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
 <!--RECENT_ACTIVITY:end-->
