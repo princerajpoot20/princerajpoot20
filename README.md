@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+1. ✔️ Closed issue [#4954](https://github.com/asyncapi/website/issues/4954) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ❌ Closed PR [#4974](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ✔️ Closed issue [#4957](https://github.com/asyncapi/website/issues/4957) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ✔️ Closed issue [#4986](https://github.com/asyncapi/website/issues/4986) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ✔️ Closed issue [#5002](https://github.com/asyncapi/website/issues/5002) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
