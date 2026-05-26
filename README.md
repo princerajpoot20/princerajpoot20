@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#5458](https://github.com/asyncapi/website/pull/5458#pullrequestreview-4357259635) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. 🔴 Requested 1 change(s) for [#5477](https://github.com/asyncapi/website/pull/5477#pullrequestreview-4365180614) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. 👍 Approved [#5480](https://github.com/asyncapi/website/pull/5480#pullrequestreview-4357215126) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 👍 Approved [#5475](https://github.com/asyncapi/website/pull/5475#pullrequestreview-4364728567) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 👍 Approved [#5479](https://github.com/asyncapi/website/pull/5479#pullrequestreview-4357003443) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. 👍 Approved [#5476](https://github.com/asyncapi/website/pull/5476#pullrequestreview-4364699242) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
