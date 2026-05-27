@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Oluwatunmise-olat/website](https://github.com/Oluwatunmise-olat/website)<br>
-2. 👍 Approved [#5224](https://github.com/asyncapi/website/pull/5224#pullrequestreview-4374209278) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ✔️ Closed issue [#4388](https://github.com/asyncapi/website/issues/4388) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [bandantonio/website](https://github.com/bandantonio/website)<br>
-5. ✔️ Closed issue [#4367](https://github.com/asyncapi/website/issues/4367) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ✔️ Closed issue [#4958](https://github.com/asyncapi/website/issues/4958) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ❌ Closed PR [#5450](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ⬆️ Pushed undefined commit(s) to [aria-agentworks/website](https://github.com/aria-agentworks/website)<br>
+5. 👍 Approved [#5395](https://github.com/asyncapi/website/pull/5395#pullrequestreview-4375303785) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
