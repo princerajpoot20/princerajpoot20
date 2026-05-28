@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5503](https://github.com/asyncapi/website/pull/5503#pullrequestreview-4379551128) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ✔️ Closed issue [#4958](https://github.com/asyncapi/website/issues/4958) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ❌ Closed PR [#5450](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [aria-agentworks/website](https://github.com/aria-agentworks/website)<br>
+1. ❌ Closed PR [#5285](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ❌ Closed PR [#5040](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ❌ Closed PR [#5129](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
