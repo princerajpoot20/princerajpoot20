@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ✔️ Closed issue [#5103](https://github.com/asyncapi/website/issues/5103) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ✔️ Closed issue [#5465](https://github.com/asyncapi/website/issues/5465) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 👍 Approved [#5527](https://github.com/asyncapi/website/pull/5527#pullrequestreview-4396992105) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 👍 Approved [#5529](https://github.com/asyncapi/website/pull/5529#pullrequestreview-4398937027) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ✔️ Closed issue [#5103](https://github.com/asyncapi/website/issues/5103) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ✔️ Closed issue [#5465](https://github.com/asyncapi/website/issues/5465) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
