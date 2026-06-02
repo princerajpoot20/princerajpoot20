@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5533](https://github.com/asyncapi/website/pull/5533#pullrequestreview-4411815864) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ✔️ Closed issue [#1233](https://github.com/asyncapi/studio/issues/1233) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-3. ✔️ Closed issue [#1267](https://github.com/asyncapi/studio/issues/1267) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ✔️ Closed issue [#1304](https://github.com/asyncapi/studio/issues/1304) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+1. 👍 Approved [#5224](https://github.com/asyncapi/website/pull/5224#pullrequestreview-4411782461) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 👍 Approved [#5534](https://github.com/asyncapi/website/pull/5534#pullrequestreview-4411888521) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 👍 Approved [#5533](https://github.com/asyncapi/website/pull/5533#pullrequestreview-4411815864) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ✔️ Closed issue [#1233](https://github.com/asyncapi/studio/issues/1233) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+5. ✔️ Closed issue [#1267](https://github.com/asyncapi/studio/issues/1267) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
 <!--RECENT_ACTIVITY:end-->
