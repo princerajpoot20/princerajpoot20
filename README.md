@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#319](undefined) in [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/openapi-schema-parser](https://github.com/princerajpoot20/openapi-schema-parser)<br>
-3. 🔱 Forked [princerajpoot20/openapi-schema-parser](https://github.com/princerajpoot20/openapi-schema-parser) from [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
-4. ❗️ Opened issue [#5551](https://github.com/asyncapi/website/issues/5551) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 🔴 Requested 1 change(s) for [#966](https://github.com/asyncapi/conference-website/pull/966#pullrequestreview-4444979610) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+1. 💪 Opened PR [#367](undefined) in [fossunited/forklore](https://github.com/fossunited/forklore)<br>
+2. 🔱 Forked [princerajpoot20/forklore](https://github.com/princerajpoot20/forklore) from [fossunited/forklore](https://github.com/fossunited/forklore)<br>
+3. ❗️ Opened issue [#366](https://github.com/fossunited/forklore/issues/366) in [fossunited/forklore](https://github.com/fossunited/forklore)<br>
+4. 💪 Opened PR [#319](undefined) in [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
+5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/openapi-schema-parser](https://github.com/princerajpoot20/openapi-schema-parser)<br>
 <!--RECENT_ACTIVITY:end-->
