@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#131](https://github.com/asyncapi/chatbot/issues/131) in [asyncapi/chatbot](https://github.com/asyncapi/chatbot)<br>
-2. ❗️ Opened issue [#121](https://github.com/asyncapi/enterprise-patterns/issues/121) in [asyncapi/enterprise-patterns](https://github.com/asyncapi/enterprise-patterns)<br>
-3. ❗️ Opened issue [#101](https://github.com/asyncapi/EDAVisualiser/issues/101) in [asyncapi/EDAVisualiser](https://github.com/asyncapi/EDAVisualiser)<br>
-4. ❗️ Opened issue [#322](https://github.com/asyncapi/openapi-schema-parser/issues/322) in [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
-5. ❗️ Opened issue [#315](https://github.com/asyncapi/avro-schema-parser/issues/315) in [asyncapi/avro-schema-parser](https://github.com/asyncapi/avro-schema-parser)<br>
+1. ❗️ Opened issue [#223](https://github.com/asyncapi/python-paho-template/issues/223) in [asyncapi/python-paho-template](https://github.com/asyncapi/python-paho-template)<br>
+2. ❗️ Opened issue [#463](https://github.com/asyncapi/nodejs-ws-template/issues/463) in [asyncapi/nodejs-ws-template](https://github.com/asyncapi/nodejs-ws-template)<br>
+3. ❗️ Opened issue [#381](https://github.com/asyncapi/nodejs-template/issues/381) in [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template)<br>
+4. ❗️ Opened issue [#236](https://github.com/asyncapi/php-template/issues/236) in [asyncapi/php-template](https://github.com/asyncapi/php-template)<br>
+5. ❗️ Opened issue [#498](https://github.com/asyncapi/java-spring-template/issues/498) in [asyncapi/java-spring-template](https://github.com/asyncapi/java-spring-template)<br>
 <!--RECENT_ACTIVITY:end-->
