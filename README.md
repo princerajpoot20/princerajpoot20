@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/forklore](https://github.com/princerajpoot20/forklore)<br>
-3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/forklore](https://github.com/princerajpoot20/forklore)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/forklore](https://github.com/princerajpoot20/forklore)<br>
+1. ❗️ Opened issue [#131](https://github.com/asyncapi/chatbot/issues/131) in [asyncapi/chatbot](https://github.com/asyncapi/chatbot)<br>
+2. ❗️ Opened issue [#121](https://github.com/asyncapi/enterprise-patterns/issues/121) in [asyncapi/enterprise-patterns](https://github.com/asyncapi/enterprise-patterns)<br>
+3. ❗️ Opened issue [#101](https://github.com/asyncapi/EDAVisualiser/issues/101) in [asyncapi/EDAVisualiser](https://github.com/asyncapi/EDAVisualiser)<br>
+4. ❗️ Opened issue [#322](https://github.com/asyncapi/openapi-schema-parser/issues/322) in [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
+5. ❗️ Opened issue [#315](https://github.com/asyncapi/avro-schema-parser/issues/315) in [asyncapi/avro-schema-parser](https://github.com/asyncapi/avro-schema-parser)<br>
 <!--RECENT_ACTIVITY:end-->
