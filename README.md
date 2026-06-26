@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5597](https://github.com/asyncapi/website/issues/5597) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/forklore](https://github.com/princerajpoot20/forklore)<br>
-3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/forklore](https://github.com/princerajpoot20/forklore)<br>
-4. ❗️ Opened issue [#223](https://github.com/asyncapi/python-paho-template/issues/223) in [asyncapi/python-paho-template](https://github.com/asyncapi/python-paho-template)<br>
-5. ❗️ Opened issue [#463](https://github.com/asyncapi/nodejs-ws-template/issues/463) in [asyncapi/nodejs-ws-template](https://github.com/asyncapi/nodejs-ws-template)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 👍 Approved [#5594](https://github.com/asyncapi/website/pull/5594#pullrequestreview-4576453832) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 👍 Approved [#5585](https://github.com/asyncapi/website/pull/5585#pullrequestreview-4576450887) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ⬆️ Pushed undefined commit(s) to [thulieblack/website](https://github.com/thulieblack/website)<br>
+5. ❗️ Opened issue [#5597](https://github.com/asyncapi/website/issues/5597) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
