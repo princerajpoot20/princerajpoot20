@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 👍 Approved [#5594](https://github.com/asyncapi/website/pull/5594#pullrequestreview-4576453832) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. 👍 Approved [#5585](https://github.com/asyncapi/website/pull/5585#pullrequestreview-4576450887) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [thulieblack/website](https://github.com/thulieblack/website)<br>
-5. ❗️ Opened issue [#5597](https://github.com/asyncapi/website/issues/5597) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. 🔴 Requested 1 change(s) for [#5599](https://github.com/asyncapi/website/pull/5599#pullrequestreview-4584557419) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 👍 Approved [#5594](https://github.com/asyncapi/website/pull/5594#pullrequestreview-4576453832) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 👍 Approved [#5585](https://github.com/asyncapi/website/pull/5585#pullrequestreview-4576450887) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [thulieblack/website](https://github.com/thulieblack/website)<br>
 <!--RECENT_ACTIVITY:end-->
