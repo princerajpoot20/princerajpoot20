@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#145](https://github.com/asyncapi/brand/issues/145) in [asyncapi/brand](https://github.com/asyncapi/brand)<br>
-2. ✔️ Closed issue [#1137](https://github.com/asyncapi/parser-js/issues/1137) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-4. 👍 Approved [#1191](https://github.com/asyncapi/parser-js/pull/1191#pullrequestreview-4593866491) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. 🔴 Requested 1 change(s) for [#5599](https://github.com/asyncapi/website/pull/5599#pullrequestreview-4584557419) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. 👍 Approved [#5587](https://github.com/asyncapi/website/pull/5587#pullrequestreview-4596768930) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ❗️ Opened issue [#145](https://github.com/asyncapi/brand/issues/145) in [asyncapi/brand](https://github.com/asyncapi/brand)<br>
+3. ✔️ Closed issue [#1137](https://github.com/asyncapi/parser-js/issues/1137) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+5. 👍 Approved [#1191](https://github.com/asyncapi/parser-js/pull/1191#pullrequestreview-4593866491) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
 <!--RECENT_ACTIVITY:end-->
