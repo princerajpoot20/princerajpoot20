@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#305](https://github.com/asyncapi/optimizer/pull/305#pullrequestreview-4624069412) in [asyncapi/optimizer](https://github.com/asyncapi/optimizer)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+1. 👍 Approved [#5608](https://github.com/asyncapi/website/pull/5608#pullrequestreview-4627133336) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 👍 Approved [#305](https://github.com/asyncapi/optimizer/pull/305#pullrequestreview-4624069412) in [asyncapi/optimizer](https://github.com/asyncapi/optimizer)<br>
 3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
 4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
 5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
