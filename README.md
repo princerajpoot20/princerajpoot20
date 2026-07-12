@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-2. ✔️ Closed issue [#5597](https://github.com/asyncapi/website/issues/5597) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. 👍 Approved [#5622](https://github.com/asyncapi/website/pull/5622#pullrequestreview-4677638696) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [devxdh/asyncapi-website](https://github.com/devxdh/asyncapi-website)<br>
+1. ❌ Closed PR [#1173](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+2. ❌ Closed PR [#1174](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+3. ❌ Closed PR [#1175](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+4. ❌ Closed PR [#1195](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+5. 🔴 Requested 1 change(s) for [#5599](https://github.com/asyncapi/website/pull/5599#pullrequestreview-4679558445) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
