@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1173](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-2. ❌ Closed PR [#1174](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-3. ❌ Closed PR [#1175](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-4. ❌ Closed PR [#1195](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. 🔴 Requested 1 change(s) for [#5599](https://github.com/asyncapi/website/pull/5599#pullrequestreview-4679558445) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ❗️ Opened issue [#2](https://github.com/hasithasandunlakshan/.opensource/issues/2) in [hasithasandunlakshan/.opensource](https://github.com/hasithasandunlakshan/.opensource)<br>
+2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 👍 Approved [#5530](https://github.com/asyncapi/website/pull/5530#pullrequestreview-4679857707) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ❌ Closed PR [#5318](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [keyp-dev/website](https://github.com/keyp-dev/website)<br>
 <!--RECENT_ACTIVITY:end-->
