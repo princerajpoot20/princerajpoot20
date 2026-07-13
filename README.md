@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1039](https://github.com/asyncapi/conference-website/pull/1039#pullrequestreview-4680088248) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-2. ❗️ Opened issue [#2](https://github.com/hasithasandunlakshan/.opensource/issues/2) in [hasithasandunlakshan/.opensource](https://github.com/hasithasandunlakshan/.opensource)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. 👍 Approved [#5530](https://github.com/asyncapi/website/pull/5530#pullrequestreview-4679857707) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ❌ Closed PR [#5318](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. 🔴 Requested 1 change(s) for [#5626](https://github.com/asyncapi/website/pull/5626#pullrequestreview-4683888204) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 👍 Approved [#1039](https://github.com/asyncapi/conference-website/pull/1039#pullrequestreview-4680088248) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+3. ❗️ Opened issue [#2](https://github.com/hasithasandunlakshan/.opensource/issues/2) in [hasithasandunlakshan/.opensource](https://github.com/hasithasandunlakshan/.opensource)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. 👍 Approved [#5530](https://github.com/asyncapi/website/pull/5530#pullrequestreview-4679857707) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
