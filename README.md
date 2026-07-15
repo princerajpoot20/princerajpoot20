@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#5626](https://github.com/asyncapi/website/pull/5626#pullrequestreview-4683888204) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 👍 Approved [#1039](https://github.com/asyncapi/conference-website/pull/1039#pullrequestreview-4680088248) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-3. ❗️ Opened issue [#2](https://github.com/hasithasandunlakshan/.opensource/issues/2) in [hasithasandunlakshan/.opensource](https://github.com/hasithasandunlakshan/.opensource)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 👍 Approved [#5530](https://github.com/asyncapi/website/pull/5530#pullrequestreview-4679857707) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+2. ✔️ Closed issue [#877](https://github.com/asyncapi/parser-js/issues/877) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+3. 👍 Approved [#1196](https://github.com/asyncapi/parser-js/pull/1196#pullrequestreview-4700576909) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+4. 🔴 Requested 1 change(s) for [#5626](https://github.com/asyncapi/website/pull/5626#pullrequestreview-4683888204) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. 👍 Approved [#1039](https://github.com/asyncapi/conference-website/pull/1039#pullrequestreview-4680088248) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
 <!--RECENT_ACTIVITY:end-->
