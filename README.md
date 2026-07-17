@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#306](https://github.com/asyncapi/optimizer/issues/306) in [asyncapi/optimizer](https://github.com/asyncapi/optimizer)<br>
-2. ❗️ Opened issue [#326](https://github.com/asyncapi/openapi-schema-parser/issues/326) in [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
-3. ✔️ Closed issue [#1201](https://github.com/asyncapi/parser-js/issues/1201) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. ✔️ Closed issue [#877](https://github.com/asyncapi/parser-js/issues/877) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+2. ✔️ Closed issue [#1075](https://github.com/asyncapi/parser-js/issues/1075) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+3. 👍 Approved [#1200](https://github.com/asyncapi/parser-js/pull/1200#pullrequestreview-4719228594) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+4. ❗️ Opened issue [#306](https://github.com/asyncapi/optimizer/issues/306) in [asyncapi/optimizer](https://github.com/asyncapi/optimizer)<br>
+5. ❗️ Opened issue [#326](https://github.com/asyncapi/openapi-schema-parser/issues/326) in [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
 <!--RECENT_ACTIVITY:end-->
