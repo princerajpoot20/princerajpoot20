@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#5631](https://github.com/asyncapi/website/pull/5631#pullrequestreview-4726274364) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ❗️ Opened issue [#228](https://github.com/asyncapi/diff/issues/228) in [asyncapi/diff](https://github.com/asyncapi/diff)<br>
-3. ❗️ Opened issue [#235](https://github.com/asyncapi/bundler/issues/235) in [asyncapi/bundler](https://github.com/asyncapi/bundler)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. ✔️ Closed issue [#1075](https://github.com/asyncapi/parser-js/issues/1075) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+1. ✔️ Closed issue [#5572](https://github.com/asyncapi/website/issues/5572) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 👍 Approved [#5631](https://github.com/asyncapi/website/pull/5631#pullrequestreview-4728075666) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 🔴 Requested 1 change(s) for [#5631](https://github.com/asyncapi/website/pull/5631#pullrequestreview-4726274364) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ❗️ Opened issue [#228](https://github.com/asyncapi/diff/issues/228) in [asyncapi/diff](https://github.com/asyncapi/diff)<br>
 <!--RECENT_ACTIVITY:end-->
