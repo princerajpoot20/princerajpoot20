@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [princerajpoot20/nodejs-ws-template](https://github.com/princerajpoot20/nodejs-ws-template) from [asyncapi/nodejs-ws-template](https://github.com/asyncapi/nodejs-ws-template)<br>
-2. ❗️ Opened issue [#5633](https://github.com/asyncapi/website/issues/5633) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ✔️ Closed issue [#5572](https://github.com/asyncapi/website/issues/5572) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 👍 Approved [#5631](https://github.com/asyncapi/website/pull/5631#pullrequestreview-4728075666) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+2. ✔️ Closed issue [#1076](https://github.com/asyncapi/parser-js/issues/1076) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+3. 👍 Approved [#1199](https://github.com/asyncapi/parser-js/pull/1199#pullrequestreview-4730559898) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+4. 💪 Opened PR [#473](undefined) in [asyncapi/nodejs-ws-template](https://github.com/asyncapi/nodejs-ws-template)<br>
+5. ❌ Closed PR [#472](undefined) in [asyncapi/nodejs-ws-template](https://github.com/asyncapi/nodejs-ws-template)<br>
 <!--RECENT_ACTIVITY:end-->
