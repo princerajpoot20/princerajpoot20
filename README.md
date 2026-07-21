@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [princerajpoot20/optimizer](https://github.com/princerajpoot20/optimizer) from [asyncapi/optimizer](https://github.com/asyncapi/optimizer)<br>
-2. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-3. ✔️ Closed issue [#1076](https://github.com/asyncapi/parser-js/issues/1076) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-4. 👍 Approved [#1199](https://github.com/asyncapi/parser-js/pull/1199#pullrequestreview-4730559898) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. 💪 Opened PR [#473](undefined) in [asyncapi/nodejs-ws-template](https://github.com/asyncapi/nodejs-ws-template)<br>
+1. 👍 Approved [#5628](https://github.com/asyncapi/website/pull/5628#pullrequestreview-4744410215) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 🔱 Forked [princerajpoot20/optimizer](https://github.com/princerajpoot20/optimizer) from [asyncapi/optimizer](https://github.com/asyncapi/optimizer)<br>
+3. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+4. ✔️ Closed issue [#1076](https://github.com/asyncapi/parser-js/issues/1076) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+5. 👍 Approved [#1199](https://github.com/asyncapi/parser-js/pull/1199#pullrequestreview-4730559898) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
 <!--RECENT_ACTIVITY:end-->
