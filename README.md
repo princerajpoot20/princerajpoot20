@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5636](https://github.com/asyncapi/website/issues/5636) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 👍 Approved [#5628](https://github.com/asyncapi/website/pull/5628#pullrequestreview-4744410215) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. 🔱 Forked [princerajpoot20/optimizer](https://github.com/princerajpoot20/optimizer) from [asyncapi/optimizer](https://github.com/asyncapi/optimizer)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. ✔️ Closed issue [#1076](https://github.com/asyncapi/parser-js/issues/1076) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+1. 💪 Opened PR [#5643](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+3. 💪 Opened PR [#5642](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ❌ Closed PR [#5637](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
