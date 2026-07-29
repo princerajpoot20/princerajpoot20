@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [Mayaleeeee/website](https://github.com/Mayaleeeee/website)<br>
-3. ⬆️ Pushed undefined commit(s) to [aeworxet/asyncapi-website](https://github.com/aeworxet/asyncapi-website)<br>
-4. ⬆️ Pushed undefined commit(s) to [Florence-Njeri/website](https://github.com/Florence-Njeri/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+2. ✔️ Closed issue [#875](https://github.com/asyncapi/parser-js/issues/875) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+3. 👍 Approved [#1198](https://github.com/asyncapi/parser-js/pull/1198#pullrequestreview-4803815032) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [Mayaleeeee/website](https://github.com/Mayaleeeee/website)<br>
 <!--RECENT_ACTIVITY:end-->
