@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1202](https://github.com/asyncapi/parser-js/pull/1202#pullrequestreview-4817184336) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-2. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-3. 👍 Approved [#5660](https://github.com/asyncapi/website/pull/5660#pullrequestreview-4815287546) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ❗️ Opened issue [#382](https://github.com/asyncapi/template-for-generator-templates/issues/382) in [asyncapi/template-for-generator-templates](https://github.com/asyncapi/template-for-generator-templates)<br>
-5. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ⬆️ Pushed undefined commit(s) to [thulieblack/website](https://github.com/thulieblack/website)<br>
+3. 👍 Approved [#1202](https://github.com/asyncapi/parser-js/pull/1202#pullrequestreview-4817184336) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+5. 👍 Approved [#5660](https://github.com/asyncapi/website/pull/5660#pullrequestreview-4815287546) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
