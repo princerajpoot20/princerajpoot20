@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [thulieblack/website](https://github.com/thulieblack/website)<br>
-3. 👍 Approved [#1202](https://github.com/asyncapi/parser-js/pull/1202#pullrequestreview-4817184336) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. 👍 Approved [#5660](https://github.com/asyncapi/website/pull/5660#pullrequestreview-4815287546) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ✔️ Closed issue [#236](https://github.com/asyncapi/php-template/issues/236) in [asyncapi/php-template](https://github.com/asyncapi/php-template)<br>
+2. ✔️ Closed issue [#131](https://github.com/asyncapi/chatbot/issues/131) in [asyncapi/chatbot](https://github.com/asyncapi/chatbot)<br>
+3. ✔️ Closed issue [#121](https://github.com/asyncapi/enterprise-patterns/issues/121) in [asyncapi/enterprise-patterns](https://github.com/asyncapi/enterprise-patterns)<br>
+4. ✔️ Closed issue [#77](https://github.com/asyncapi/dotnet-rabbitmq-template/issues/77) in [asyncapi/dotnet-rabbitmq-template](https://github.com/asyncapi/dotnet-rabbitmq-template)<br>
+5. ✔️ Closed issue [#453](https://github.com/asyncapi/go-watermill-template/issues/453) in [asyncapi/go-watermill-template](https://github.com/asyncapi/go-watermill-template)<br>
 <!--RECENT_ACTIVITY:end-->
