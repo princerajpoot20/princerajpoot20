@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#236](https://github.com/asyncapi/php-template/issues/236) in [asyncapi/php-template](https://github.com/asyncapi/php-template)<br>
-2. ✔️ Closed issue [#131](https://github.com/asyncapi/chatbot/issues/131) in [asyncapi/chatbot](https://github.com/asyncapi/chatbot)<br>
-3. ✔️ Closed issue [#121](https://github.com/asyncapi/enterprise-patterns/issues/121) in [asyncapi/enterprise-patterns](https://github.com/asyncapi/enterprise-patterns)<br>
-4. ✔️ Closed issue [#77](https://github.com/asyncapi/dotnet-rabbitmq-template/issues/77) in [asyncapi/dotnet-rabbitmq-template](https://github.com/asyncapi/dotnet-rabbitmq-template)<br>
-5. ✔️ Closed issue [#453](https://github.com/asyncapi/go-watermill-template/issues/453) in [asyncapi/go-watermill-template](https://github.com/asyncapi/go-watermill-template)<br>
+1. ✔️ Closed issue [#236](https://github.com/asyncapi-archived-repos/php-template/issues/236) in [asyncapi-archived-repos/php-template](https://github.com/asyncapi-archived-repos/php-template)<br>
+2. ✔️ Closed issue [#131](https://github.com/asyncapi-archived-repos/chatbot/issues/131) in [asyncapi-archived-repos/chatbot](https://github.com/asyncapi-archived-repos/chatbot)<br>
+3. ✔️ Closed issue [#121](https://github.com/asyncapi-archived-repos/enterprise-patterns/issues/121) in [asyncapi-archived-repos/enterprise-patterns](https://github.com/asyncapi-archived-repos/enterprise-patterns)<br>
+4. ✔️ Closed issue [#77](https://github.com/asyncapi-archived-repos/dotnet-rabbitmq-template/issues/77) in [asyncapi-archived-repos/dotnet-rabbitmq-template](https://github.com/asyncapi-archived-repos/dotnet-rabbitmq-template)<br>
+5. ✔️ Closed issue [#453](https://github.com/asyncapi-archived-repos/go-watermill-template/issues/453) in [asyncapi-archived-repos/go-watermill-template](https://github.com/asyncapi-archived-repos/go-watermill-template)<br>
 <!--RECENT_ACTIVITY:end-->
