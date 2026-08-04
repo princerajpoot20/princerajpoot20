@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [seung983150-hash/website](https://github.com/seung983150-hash/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
-3. 👍 Approved [#5653](https://github.com/asyncapi/website/pull/5653#pullrequestreview-4854636416) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
-5. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ⬆️ Pushed undefined commit(s) to [seung983150-hash/website](https://github.com/seung983150-hash/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
+4. 👍 Approved [#5653](https://github.com/asyncapi/website/pull/5653#pullrequestreview-4854636416) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
 <!--RECENT_ACTIVITY:end-->
