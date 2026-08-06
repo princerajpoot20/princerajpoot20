@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/community](https://github.com/asyncapi/community)<br>
-2. ✔️ Closed issue [#3603](https://github.com/asyncapi/community/issues/3603) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-3. 👍 Approved [#3615](https://github.com/asyncapi/community/pull/3615#pullrequestreview-4865317016) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [seung983150-hash/website](https://github.com/seung983150-hash/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+2. ⬆️ Pushed undefined commit(s) to [anshgoyalevil/website](https://github.com/anshgoyalevil/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [asyncapi/community](https://github.com/asyncapi/community)<br>
+4. ✔️ Closed issue [#3603](https://github.com/asyncapi/community/issues/3603) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+5. 👍 Approved [#3615](https://github.com/asyncapi/community/pull/3615#pullrequestreview-4865317016) in [asyncapi/community](https://github.com/asyncapi/community)<br>
 <!--RECENT_ACTIVITY:end-->
