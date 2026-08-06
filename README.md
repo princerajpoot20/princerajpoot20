@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
-2. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-3. ⬆️ Pushed undefined commit(s) to [anshgoyalevil/website](https://github.com/anshgoyalevil/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/community](https://github.com/asyncapi/community)<br>
-5. ✔️ Closed issue [#3603](https://github.com/asyncapi/community/issues/3603) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+1. ✔️ Closed issue [#874](https://github.com/asyncapi/parser-js/issues/874) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+2. 👍 Approved [#1217](https://github.com/asyncapi/parser-js/pull/1217#pullrequestreview-4874680679) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+3. ⬆️ Pushed undefined commit(s) to [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+5. ⬆️ Pushed undefined commit(s) to [anshgoyalevil/website](https://github.com/anshgoyalevil/website)<br>
 <!--RECENT_ACTIVITY:end-->
