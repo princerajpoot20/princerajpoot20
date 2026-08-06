@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
-2. ✔️ Closed issue [#326](https://github.com/asyncapi/openapi-schema-parser/issues/326) in [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-4. 💪 Opened PR [#1220](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+1. ⬆️ Pushed undefined commit(s) to [AayushSaini101/parser-js](https://github.com/AayushSaini101/parser-js)<br>
+2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
+3. ✔️ Closed issue [#326](https://github.com/asyncapi/openapi-schema-parser/issues/326) in [asyncapi/openapi-schema-parser](https://github.com/asyncapi/openapi-schema-parser)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+5. 💪 Opened PR [#1220](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
 <!--RECENT_ACTIVITY:end-->
