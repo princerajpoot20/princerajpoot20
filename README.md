@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
-2. 🔱 Forked [princerajpoot20/avro-schema-parser](https://github.com/princerajpoot20/avro-schema-parser) from [asyncapi/avro-schema-parser](https://github.com/asyncapi/avro-schema-parser)<br>
-3. 🔴 Requested 1 change(s) for [#1348](https://github.com/asyncapi/studio/pull/1348#pullrequestreview-4896820057) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-4. ❌ Closed PR [#1](undefined) in [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
-5. ❌ Closed PR [#2](undefined) in [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
+1. 👍 Approved [#1348](https://github.com/asyncapi/studio/pull/1348#pullrequestreview-4899499267) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+2. 🔱 Forked [princerajpoot20/asyncapi-react](https://github.com/princerajpoot20/asyncapi-react) from [asyncapi/asyncapi-react](https://github.com/asyncapi/asyncapi-react)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+4. 🔱 Forked [princerajpoot20/avro-schema-parser](https://github.com/princerajpoot20/avro-schema-parser) from [asyncapi/avro-schema-parser](https://github.com/asyncapi/avro-schema-parser)<br>
+5. 🔴 Requested 1 change(s) for [#1348](https://github.com/asyncapi/studio/pull/1348#pullrequestreview-4896820057) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
 <!--RECENT_ACTIVITY:end-->
