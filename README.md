@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](undefined) in [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
-2. ❌ Closed PR [#2](undefined) in [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
-3. ❌ Closed PR [#3](undefined) in [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
-5. ⬆️ Pushed undefined commit(s) to [ivangsa/asyncapi-parser-js](https://github.com/ivangsa/asyncapi-parser-js)<br>
+1. 🔴 Requested 1 change(s) for [#1348](https://github.com/asyncapi/studio/pull/1348#pullrequestreview-4896820057) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+2. ❌ Closed PR [#1](undefined) in [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
+3. ❌ Closed PR [#2](undefined) in [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
+4. ❌ Closed PR [#3](undefined) in [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
+5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
 <!--RECENT_ACTIVITY:end-->
