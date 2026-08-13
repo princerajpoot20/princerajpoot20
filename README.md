@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
-2. 👍 Approved [#1348](https://github.com/asyncapi/studio/pull/1348#pullrequestreview-4899499267) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-3. 🔱 Forked [princerajpoot20/asyncapi-react](https://github.com/princerajpoot20/asyncapi-react) from [asyncapi/asyncapi-react](https://github.com/asyncapi/asyncapi-react)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
-5. 🔱 Forked [princerajpoot20/avro-schema-parser](https://github.com/princerajpoot20/avro-schema-parser) from [asyncapi/avro-schema-parser](https://github.com/asyncapi/avro-schema-parser)<br>
+2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/website](https://github.com/princerajpoot20/website)<br>
+4. 👍 Approved [#1348](https://github.com/asyncapi/studio/pull/1348#pullrequestreview-4899499267) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+5. 🔱 Forked [princerajpoot20/asyncapi-react](https://github.com/princerajpoot20/asyncapi-react) from [asyncapi/asyncapi-react](https://github.com/asyncapi/asyncapi-react)<br>
 <!--RECENT_ACTIVITY:end-->
