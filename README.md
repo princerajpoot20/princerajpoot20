@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1360](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
-3. 👍 Approved [#1357](https://github.com/asyncapi/studio/pull/1357#pullrequestreview-4951225315) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-4. 💪 Opened PR [#1358](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-5. ❗️ Opened issue [#5707](https://github.com/asyncapi/website/issues/5707) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ✔️ Closed issue [#2273](https://github.com/asyncapi/cli/issues/2273) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+2. 💪 Opened PR [#1360](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
+4. 👍 Approved [#1357](https://github.com/asyncapi/studio/pull/1357#pullrequestreview-4951225315) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+5. 💪 Opened PR [#1358](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
 <!--RECENT_ACTIVITY:end-->
