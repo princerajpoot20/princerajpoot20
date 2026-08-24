@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1370](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
+1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
+2. 💪 Opened PR [#1370](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
 3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
-4. ✔️ Closed issue [#2273](https://github.com/asyncapi/cli/issues/2273) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
-5. 💪 Opened PR [#1360](undefined) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
+5. ✔️ Closed issue [#2273](https://github.com/asyncapi/cli/issues/2273) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
 <!--RECENT_ACTIVITY:end-->
