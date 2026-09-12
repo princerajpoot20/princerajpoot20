@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3626](https://github.com/asyncapi/community/issues/3626) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-2. ❗️ Opened issue [#3625](https://github.com/asyncapi/community/issues/3625) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-3. 🔴 Requested 1 change(s) for [#5599](https://github.com/asyncapi/website/pull/5599#pullrequestreview-5167091132) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. 🔴 Requested 1 change(s) for [#5719](https://github.com/asyncapi/website/pull/5719#pullrequestreview-5166976938) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 🔴 Requested 1 change(s) for [#5718](https://github.com/asyncapi/website/pull/5718#pullrequestreview-5166930304) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+2. ❗️ Opened issue [#3626](https://github.com/asyncapi/community/issues/3626) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+3. ❗️ Opened issue [#3625](https://github.com/asyncapi/community/issues/3625) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+4. 🔴 Requested 1 change(s) for [#5599](https://github.com/asyncapi/website/pull/5599#pullrequestreview-5167091132) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. 🔴 Requested 1 change(s) for [#5719](https://github.com/asyncapi/website/pull/5719#pullrequestreview-5166976938) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
