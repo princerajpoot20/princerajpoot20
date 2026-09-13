@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
-2. ❗️ Opened issue [#3626](https://github.com/asyncapi/community/issues/3626) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-3. ❗️ Opened issue [#3625](https://github.com/asyncapi/community/issues/3625) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-4. 🔴 Requested 1 change(s) for [#5599](https://github.com/asyncapi/website/pull/5599#pullrequestreview-5167091132) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 🔴 Requested 1 change(s) for [#5719](https://github.com/asyncapi/website/pull/5719#pullrequestreview-5166976938) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ✔️ Closed issue [#320](https://github.com/asyncapi/avro-schema-parser/issues/320) in [asyncapi/avro-schema-parser](https://github.com/asyncapi/avro-schema-parser)<br>
+2. ❗️ Opened issue [#1248](https://github.com/asyncapi/parser-js/issues/1248) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+3. ❗️ Opened issue [#320](https://github.com/asyncapi/avro-schema-parser/issues/320) in [asyncapi/avro-schema-parser](https://github.com/asyncapi/avro-schema-parser)<br>
+4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
+5. 🔴 Requested 1 change(s) for [#5746](https://github.com/asyncapi/website/pull/5746#pullrequestreview-5190476381) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
