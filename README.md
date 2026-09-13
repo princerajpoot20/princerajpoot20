@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#5707](https://github.com/asyncapi/website/issues/5707) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 👍 Approved [#5746](https://github.com/asyncapi/website/pull/5746#pullrequestreview-5191587988) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ⬆️ Pushed undefined commit(s) to [swarupasaroogumma/website](https://github.com/swarupasaroogumma/website)<br>
-4. ✔️ Closed issue [#320](https://github.com/asyncapi/avro-schema-parser/issues/320) in [asyncapi/avro-schema-parser](https://github.com/asyncapi/avro-schema-parser)<br>
-5. ❗️ Opened issue [#1248](https://github.com/asyncapi/parser-js/issues/1248) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/studio](https://github.com/princerajpoot20/studio)<br>
+2. ✔️ Closed issue [#5707](https://github.com/asyncapi/website/issues/5707) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 👍 Approved [#5746](https://github.com/asyncapi/website/pull/5746#pullrequestreview-5191587988) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ⬆️ Pushed undefined commit(s) to [swarupasaroogumma/website](https://github.com/swarupasaroogumma/website)<br>
+5. ✔️ Closed issue [#320](https://github.com/asyncapi/avro-schema-parser/issues/320) in [asyncapi/avro-schema-parser](https://github.com/asyncapi/avro-schema-parser)<br>
 <!--RECENT_ACTIVITY:end-->
