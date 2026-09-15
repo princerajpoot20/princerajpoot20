@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [aniketsingh1023/website](https://github.com/aniketsingh1023/website)<br>
+1. 💪 Opened PR [#2298](undefined) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
 3. ⬆️ Pushed undefined commit(s) to [aniketsingh1023/website](https://github.com/aniketsingh1023/website)<br>
-4. ✔️ Closed issue [#5699](https://github.com/asyncapi/website/issues/5699) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ✔️ Closed issue [#5728](https://github.com/asyncapi/website/issues/5728) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ⬆️ Pushed undefined commit(s) to [aniketsingh1023/website](https://github.com/aniketsingh1023/website)<br>
+5. ✔️ Closed issue [#5699](https://github.com/asyncapi/website/issues/5699) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
