@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
-2. 💪 Opened PR [#2298](undefined) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [aniketsingh1023/website](https://github.com/aniketsingh1023/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [aniketsingh1023/website](https://github.com/aniketsingh1023/website)<br>
+2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
 <!--RECENT_ACTIVITY:end-->
