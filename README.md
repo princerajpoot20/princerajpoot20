@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2303](https://github.com/asyncapi/cli/issues/2303) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
-2. 🔱 Forked [princerajpoot20/bundler](https://github.com/princerajpoot20/bundler) from [asyncapi/bundler](https://github.com/asyncapi/bundler)<br>
-3. 🔱 Forked [princerajpoot20/diff](https://github.com/princerajpoot20/diff) from [asyncapi/diff](https://github.com/asyncapi/diff)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+1. ❗️ Opened issue [#3633](https://github.com/asyncapi/community/issues/3633) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+2. ✔️ Closed issue [#2251](https://github.com/asyncapi/cli/issues/2251) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+3. ❗️ Opened issue [#2303](https://github.com/asyncapi/cli/issues/2303) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+4. 🔱 Forked [princerajpoot20/bundler](https://github.com/princerajpoot20/bundler) from [asyncapi/bundler](https://github.com/asyncapi/bundler)<br>
+5. 🔱 Forked [princerajpoot20/diff](https://github.com/princerajpoot20/diff) from [asyncapi/diff](https://github.com/asyncapi/diff)<br>
 <!--RECENT_ACTIVITY:end-->
