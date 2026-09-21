@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ❗️ Opened issue [#3633](https://github.com/asyncapi/community/issues/3633) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-3. ✔️ Closed issue [#2251](https://github.com/asyncapi/cli/issues/2251) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
-4. ❗️ Opened issue [#2303](https://github.com/asyncapi/cli/issues/2303) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
-5. 🔱 Forked [princerajpoot20/bundler](https://github.com/princerajpoot20/bundler) from [asyncapi/bundler](https://github.com/asyncapi/bundler)<br>
+2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ❗️ Opened issue [#3633](https://github.com/asyncapi/community/issues/3633) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+4. ✔️ Closed issue [#2251](https://github.com/asyncapi/cli/issues/2251) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+5. ❗️ Opened issue [#2303](https://github.com/asyncapi/cli/issues/2303) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
 <!--RECENT_ACTIVITY:end-->
