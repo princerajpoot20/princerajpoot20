@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
-3. 💪 Opened PR [#1253](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-4. 🔴 Requested 1 change(s) for [#2685](https://github.com/asyncapi/modelina/pull/2685#pullrequestreview-5326954306) in [asyncapi/modelina](https://github.com/asyncapi/modelina)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/modelina](https://github.com/princerajpoot20/modelina)<br>
+1. ❗️ Opened issue [#3639](https://github.com/asyncapi/community/issues/3639) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
+4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
+5. 💪 Opened PR [#1253](undefined) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
 <!--RECENT_ACTIVITY:end-->
