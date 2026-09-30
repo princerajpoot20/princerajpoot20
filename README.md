@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5786](https://github.com/asyncapi/website/issues/5786) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ❗️ Opened issue [#3639](https://github.com/asyncapi/community/issues/3639) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
+1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/asyncapi-react](https://github.com/princerajpoot20/asyncapi-react)<br>
+2. ❗️ Opened issue [#5786](https://github.com/asyncapi/website/issues/5786) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ❗️ Opened issue [#3639](https://github.com/asyncapi/community/issues/3639) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
 5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
 <!--RECENT_ACTIVITY:end-->
