@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#889](undefined) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-2. ❌ Closed PR [#1055](undefined) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/asyncapi-react](https://github.com/princerajpoot20/asyncapi-react)<br>
-4. ❗️ Opened issue [#5786](https://github.com/asyncapi/website/issues/5786) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ❗️ Opened issue [#3639](https://github.com/asyncapi/community/issues/3639) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+4. 💪 Opened PR [#2310](undefined) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+5. ❌ Closed PR [#889](undefined) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
 <!--RECENT_ACTIVITY:end-->
