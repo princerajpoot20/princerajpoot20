@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#3638](https://github.com/asyncapi/community/pull/3638#pullrequestreview-5404811770) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-2. ⬆️ Pushed undefined commit(s) to [Aradhya6394/community](https://github.com/Aradhya6394/community)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ✔️ Closed issue [#5752](https://github.com/asyncapi/website/issues/5752) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ❌ Closed PR [#5794](undefined) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [swarupasaroogumma/website](https://github.com/swarupasaroogumma/website)<br>
+2. 👍 Approved [#3638](https://github.com/asyncapi/community/pull/3638#pullrequestreview-5404811770) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+3. ⬆️ Pushed undefined commit(s) to [Aradhya6394/community](https://github.com/Aradhya6394/community)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ✔️ Closed issue [#5752](https://github.com/asyncapi/website/issues/5752) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
