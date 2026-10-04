@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1090](https://github.com/asyncapi/conference-website/issues/1090) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+2. ❗️ Opened issue [#1090](https://github.com/asyncapi/conference-website/issues/1090) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
 3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
 4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
 5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
