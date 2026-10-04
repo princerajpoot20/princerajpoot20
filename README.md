@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
-2. ⬆️ Pushed undefined commit(s) to [swarupasaroogumma/website](https://github.com/swarupasaroogumma/website)<br>
-3. 👍 Approved [#3638](https://github.com/asyncapi/community/pull/3638#pullrequestreview-5404811770) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-4. ⬆️ Pushed undefined commit(s) to [Aradhya6394/community](https://github.com/Aradhya6394/community)<br>
-5. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
+2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+3. ⬆️ Pushed undefined commit(s) to [swarupasaroogumma/website](https://github.com/swarupasaroogumma/website)<br>
+4. 👍 Approved [#3638](https://github.com/asyncapi/community/pull/3638#pullrequestreview-5404811770) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+5. ⬆️ Pushed undefined commit(s) to [Aradhya6394/community](https://github.com/Aradhya6394/community)<br>
 <!--RECENT_ACTIVITY:end-->
