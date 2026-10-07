@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1095](undefined) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-2. ❗️ Opened issue [#1094](https://github.com/asyncapi/conference-website/issues/1094) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-3. ✔️ Closed issue [#3629](https://github.com/asyncapi/community/issues/3629) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
+2. 💪 Opened PR [#1095](undefined) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+3. ❗️ Opened issue [#1094](https://github.com/asyncapi/conference-website/issues/1094) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+4. ✔️ Closed issue [#3629](https://github.com/asyncapi/community/issues/3629) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/community](https://github.com/princerajpoot20/community)<br>
 <!--RECENT_ACTIVITY:end-->
