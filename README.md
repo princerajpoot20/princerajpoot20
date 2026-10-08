@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5808](https://github.com/asyncapi/website/pull/5808#pullrequestreview-5441524144) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
 2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
-3. 💪 Opened PR [#1095](undefined) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-4. ❗️ Opened issue [#1094](https://github.com/asyncapi/conference-website/issues/1094) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-5. ✔️ Closed issue [#3629](https://github.com/asyncapi/community/issues/3629) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+3. ⬆️ Pushed undefined commit(s) to [thulieblack/website](https://github.com/thulieblack/website)<br>
+4. 👍 Approved [#5808](https://github.com/asyncapi/website/pull/5808#pullrequestreview-5441524144) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
 <!--RECENT_ACTIVITY:end-->
