@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [TenzDelek/conference-website](https://github.com/TenzDelek/conference-website)<br>
-2. ⬆️ Pushed undefined commit(s) to [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+2. ✔️ Closed issue [#1248](https://github.com/asyncapi/parser-js/issues/1248) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+3. ⬆️ Pushed undefined commit(s) to [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+4. ⬆️ Pushed undefined commit(s) to [TenzDelek/conference-website](https://github.com/TenzDelek/conference-website)<br>
+5. ⬆️ Pushed undefined commit(s) to [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
 <!--RECENT_ACTIVITY:end-->
