@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
-2. ✔️ Closed issue [#1009](https://github.com/asyncapi/conference-website/issues/1009) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-3. 👍 Approved [#1010](https://github.com/asyncapi/conference-website/pull/1010#pullrequestreview-5506089065) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-4. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
+1. ❌ Closed PR [#2322](undefined) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+2. 💪 Opened PR [#2322](undefined) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
+5. ✔️ Closed issue [#1009](https://github.com/asyncapi/conference-website/issues/1009) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
 <!--RECENT_ACTIVITY:end-->
