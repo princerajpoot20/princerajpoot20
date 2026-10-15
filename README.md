@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-2. ❌ Closed PR [#2322](undefined) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
-3. 💪 Opened PR [#2322](undefined) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
-5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/parser-js](https://github.com/princerajpoot20/parser-js)<br>
+1. 💪 Opened PR [#2696](undefined) in [asyncapi/modelina](https://github.com/asyncapi/modelina)<br>
+2. ⬆️ Pushed undefined commit(s) to [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+3. ❌ Closed PR [#2322](undefined) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+4. 💪 Opened PR [#2322](undefined) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+5. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
 <!--RECENT_ACTIVITY:end-->
