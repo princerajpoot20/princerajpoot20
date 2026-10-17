@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#735](https://github.com/asyncapi/parser-js/issues/735) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-2. 👍 Approved [#1254](https://github.com/asyncapi/parser-js/pull/1254#pullrequestreview-5553665398) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-3. 🔴 Requested 1 change(s) for [#1254](https://github.com/asyncapi/parser-js/pull/1254#pullrequestreview-5548996388) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-4. 👍 Approved [#1247](https://github.com/asyncapi/parser-js/pull/1247#pullrequestreview-5548815847) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. 💪 Opened PR [#2696](undefined) in [asyncapi/modelina](https://github.com/asyncapi/modelina)<br>
+1. ⬆️ Pushed undefined commit(s) to [AayushSaini101/parser-js](https://github.com/AayushSaini101/parser-js)<br>
+2. ✔️ Closed issue [#735](https://github.com/asyncapi/parser-js/issues/735) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+3. 👍 Approved [#1254](https://github.com/asyncapi/parser-js/pull/1254#pullrequestreview-5553665398) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+4. 🔴 Requested 1 change(s) for [#1254](https://github.com/asyncapi/parser-js/pull/1254#pullrequestreview-5548996388) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+5. 👍 Approved [#1247](https://github.com/asyncapi/parser-js/pull/1247#pullrequestreview-5548815847) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
 <!--RECENT_ACTIVITY:end-->
