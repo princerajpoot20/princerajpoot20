@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5844](https://github.com/asyncapi/website/issues/5844) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 💪 Opened PR [#3652](undefined) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-3. ⬆️ Pushed undefined commit(s) to [AayushSaini101/parser-js](https://github.com/AayushSaini101/parser-js)<br>
-4. ✔️ Closed issue [#735](https://github.com/asyncapi/parser-js/issues/735) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-5. 👍 Approved [#1254](https://github.com/asyncapi/parser-js/pull/1254#pullrequestreview-5553665398) in [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
+1. ❌ Closed PR [#1100](undefined) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+2. 🔴 Requested 1 change(s) for [#1104](https://github.com/asyncapi/conference-website/pull/1104#pullrequestreview-5561913014) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+3. ❗️ Opened issue [#5844](https://github.com/asyncapi/website/issues/5844) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 💪 Opened PR [#3652](undefined) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+5. ⬆️ Pushed undefined commit(s) to [AayushSaini101/parser-js](https://github.com/AayushSaini101/parser-js)<br>
 <!--RECENT_ACTIVITY:end-->
