@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5835](https://github.com/asyncapi/website/pull/5835#pullrequestreview-5567192138) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 👍 Approved [#2685](https://github.com/asyncapi/modelina/pull/2685#pullrequestreview-5563853096) in [asyncapi/modelina](https://github.com/asyncapi/modelina)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
-4. ❌ Closed PR [#1100](undefined) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-5. 🔴 Requested 1 change(s) for [#1104](https://github.com/asyncapi/conference-website/pull/1104#pullrequestreview-5561913014) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+1. 💪 Opened PR [#1](undefined) in [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
+2. ⬆️ Pushed undefined commit(s) to [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
+3. 👍 Approved [#5835](https://github.com/asyncapi/website/pull/5835#pullrequestreview-5567192138) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 👍 Approved [#2685](https://github.com/asyncapi/modelina/pull/2685#pullrequestreview-5563853096) in [asyncapi/modelina](https://github.com/asyncapi/modelina)<br>
+5. ⬆️ Pushed undefined commit(s) to [asyncapi/parser-js](https://github.com/asyncapi/parser-js)<br>
 <!--RECENT_ACTIVITY:end-->
