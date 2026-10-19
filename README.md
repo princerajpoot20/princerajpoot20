@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5847](https://github.com/asyncapi/website/pull/5847#pullrequestreview-5571092667) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 💪 Opened PR [#1](undefined) in [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
-3. ⬆️ Pushed undefined commit(s) to [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
-4. 👍 Approved [#5835](https://github.com/asyncapi/website/pull/5835#pullrequestreview-5567192138) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 👍 Approved [#2685](https://github.com/asyncapi/modelina/pull/2685#pullrequestreview-5563853096) in [asyncapi/modelina](https://github.com/asyncapi/modelina)<br>
+1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. 👍 Approved [#5847](https://github.com/asyncapi/website/pull/5847#pullrequestreview-5571092667) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 💪 Opened PR [#1](undefined) in [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
+4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/conference-website](https://github.com/princerajpoot20/conference-website)<br>
+5. 👍 Approved [#5835](https://github.com/asyncapi/website/pull/5835#pullrequestreview-5567192138) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
