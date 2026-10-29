@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/community](https://github.com/asyncapi/community)<br>
-4. ⬆️ Pushed undefined commit(s) to [princerajpoot20/cli](https://github.com/princerajpoot20/cli)<br>
+1. ❗️ Opened issue [#184](https://github.com/asyncapi/extensions-catalog/issues/184) in [asyncapi/extensions-catalog](https://github.com/asyncapi/extensions-catalog)<br>
+2. ❗️ Opened issue [#672](https://github.com/asyncapi/spec-json-schemas/issues/672) in [asyncapi/spec-json-schemas](https://github.com/asyncapi/spec-json-schemas)<br>
+3. ❗️ Opened issue [#266](https://github.com/asyncapi/tck/issues/266) in [asyncapi/tck](https://github.com/asyncapi/tck)<br>
+4. ❗️ Opened issue [#317](https://github.com/asyncapi/bindings/issues/317) in [asyncapi/bindings](https://github.com/asyncapi/bindings)<br>
 5. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
