@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#184](https://github.com/asyncapi/extensions-catalog/issues/184) in [asyncapi/extensions-catalog](https://github.com/asyncapi/extensions-catalog)<br>
-2. ❗️ Opened issue [#672](https://github.com/asyncapi/spec-json-schemas/issues/672) in [asyncapi/spec-json-schemas](https://github.com/asyncapi/spec-json-schemas)<br>
-3. ❗️ Opened issue [#266](https://github.com/asyncapi/tck/issues/266) in [asyncapi/tck](https://github.com/asyncapi/tck)<br>
-4. ❗️ Opened issue [#317](https://github.com/asyncapi/bindings/issues/317) in [asyncapi/bindings](https://github.com/asyncapi/bindings)<br>
-5. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. 👍 Approved [#1096](https://github.com/asyncapi/conference-website/pull/1096#pullrequestreview-5734070730) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+2. 👍 Approved [#2336](https://github.com/asyncapi/cli/pull/2336#pullrequestreview-5733524424) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+3. ❗️ Opened issue [#184](https://github.com/asyncapi/extensions-catalog/issues/184) in [asyncapi/extensions-catalog](https://github.com/asyncapi/extensions-catalog)<br>
+4. ❗️ Opened issue [#672](https://github.com/asyncapi/spec-json-schemas/issues/672) in [asyncapi/spec-json-schemas](https://github.com/asyncapi/spec-json-schemas)<br>
+5. ❗️ Opened issue [#266](https://github.com/asyncapi/tck/issues/266) in [asyncapi/tck](https://github.com/asyncapi/tck)<br>
 <!--RECENT_ACTIVITY:end-->
