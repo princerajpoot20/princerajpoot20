@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1402](https://github.com/asyncapi/studio/issues/1402) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
-2. 👍 Approved [#2346](https://github.com/asyncapi/cli/pull/2346#pullrequestreview-5915548593) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
-3. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. 👍 Approved [#5885](https://github.com/asyncapi/website/pull/5885#pullrequestreview-5770158605) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 👍 Approved [#1096](https://github.com/asyncapi/conference-website/pull/1096#pullrequestreview-5734070730) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+1. 👍 Approved [#5916](https://github.com/asyncapi/website/pull/5916#pullrequestreview-5938599536) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+2. ❗️ Opened issue [#1402](https://github.com/asyncapi/studio/issues/1402) in [asyncapi/studio](https://github.com/asyncapi/studio)<br>
+3. 👍 Approved [#2346](https://github.com/asyncapi/cli/pull/2346#pullrequestreview-5915548593) in [asyncapi/cli](https://github.com/asyncapi/cli)<br>
+4. ⬆️ Pushed undefined commit(s) to [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. 👍 Approved [#5885](https://github.com/asyncapi/website/pull/5885#pullrequestreview-5770158605) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
